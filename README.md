@@ -1,4 +1,4 @@
-<h1>Microsoft Malware Prodiction</h1>
+<h1>Microsoft Malware Prediction</h1>
 <br>
 <h3>Data Analytics Project 2019</h3>
 <br>
