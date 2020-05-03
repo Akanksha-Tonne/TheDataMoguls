@@ -1,9 +1,10 @@
-Microsoft Malware Prediction</h1>
+<h1>Microsoft Malware Prediction</h1>
 <br>
-<h3>Data Analytics Project 2019</h3>
+<h3>Data Analytics</h3>
 <br>
-<h4>Problem Statement: Predict if a machine will soon be hit with malware?</h4>
+<h4>Predict if a machine will soon be hit by malware based on the given specifications of the machine</h4>
 <p>
+  <b>Link to Kaggle Competition</b> <br>
   https://www.kaggle.com/c/microsoft-malware-prediction
   
 </p>
